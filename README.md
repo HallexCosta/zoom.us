@@ -84,4 +84,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.c
 
 | Aluno | Professor |
 |--|--|  
-| [<img src="https://github.com/HallexCosta.png"><br><sub>@HallexCosta</sub>](https://github.com/HallexCosta) | [<img src="https://github.com/ErickWendel.png"><br><sub>@ErickWendel</sub>](https://github.com/ErickWendel) |
+| [<img src="https://avatars0.githubusercontent.com/u/55293671?s=115&v=4"><br><sub>@HallexCosta</sub>](https://github.com/HallexCosta) | [<img src="https://avatars.githubusercontent.com/u/8060102?s=115&v=4"><br><sub>@ErickWendel</sub>](https://github.com/ErickWendel) |
