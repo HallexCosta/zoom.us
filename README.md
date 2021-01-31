@@ -5,7 +5,6 @@
 
 <br><br>
 
-
 # Projeto JSExpert 2.0 - Zoom :yellow_heart:
 
 - Acesse o [home](./aula04/public/pages/home/index.html) para acessar a home page
@@ -67,7 +66,7 @@ $ cd build
 # Iniciando o projeto
 $ cd public && yarn start
 $ cd server && yarn start
-$ cd peer-server && yarn start
+$ cd peer-server && yarn dev
 
 ```  
 

@@ -13,17 +13,17 @@ const onload = () => {
   const room = urlParams.get('room');
   console.log('this is the room', room)
 
-  // const socketUrl = 'http://localhost:3000'
-  const socketUrl = 'https://intense-waters-87051.herokuapp.com'
+  const socketUrl = 'http://localhost:3000'
+  // const socketUrl = 'https://intense-waters-87051.herokuapp.com'
   const socketBuilder = new SocketBuilder({ socketUrl })
 
   const peerConfig = Object.values({
     id: undefined,
     config: {
-      host: 'nameless-spire-74596.herokuapp.com',
-      secure: true,
-      // port: 9000,
-      // host: 'localhost',
+      // host: 'nameless-spire-74596.herokuapp.com',
+      // secure: true,
+      port: 9000,
+      host: 'localhost',
       path: '/'
     }
   })
