@@ -30,9 +30,9 @@
 
 ## Room in Call
 
-![room](./aula04/public/prints/room-call.png)
+![room](./aula04/public/prints/room-in-call.png)
 
-## Minhas Anotações
+## Sobre
 >Na semana javascript expert 2.0 construímos um projeto de streams de video conferência, similar ao que software _[Zoom](https://zoom.us)_ faz, utilizamos _Sockets_ para fazer a comunicação em tempo real e também fizemos o uso da tecnologia _WebRTC Peer Server_ para identificar cada usuário conectado na chamada e torna-lo único, trabalhamos com o padrão Builder para manipulação de eventos e seguimos o principio da responsabilidade única, onde nosso arquivo _app.js_ é responsável pela execução de toda nossa aplicação, a classe de negócios (_Business_) é nossa controladora que também é conhecida como _(Controller)_ que é responsável pela manipulação de regras da nossa aplicação e da classe de visualização _(View)_, a pasta _util_ contém toda nossa implementação relacionada ao _Media Recorder API, Media Devices API, WebRTC PeerServer_ e _Sockets_.
 
 ## :video_game: Como executar a aplicação
@@ -72,7 +72,7 @@ $ cd peer-server && yarn dev
 
 ## :memo: Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/HallexCosta/proffy/blob/master/LICENSE) para mais detalhes.  
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/HallexCosta/zoom.us/blob/master/LICENSE) para mais detalhes.  
 
 
 ## Créditos
