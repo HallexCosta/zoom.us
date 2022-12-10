@@ -1,11 +1,5 @@
-<h2 align="center">
-  Zoom Clone<br />
-</h2>
-
-
-<br><br>
-
 # Projeto JSExpert 2.0 - Zoom :yellow_heart:
+
 
 - Acesse o [home](./aula04/public/pages/home/index.html) para acessar a home page
 - Acesse o [room](./aula04/public/pages/room/index.html) uma room específica
@@ -33,7 +27,7 @@
 ![room](./aula04/public/prints/room-in-call.png)
 
 ## Sobre
->Na semana javascript expert 2.0 construímos um projeto de streams de video conferência, similar ao que software _[Zoom](https://zoom.us)_ faz, utilizamos _Sockets_ para fazer a comunicação em tempo real e também fizemos o uso da tecnologia _WebRTC Peer Server_ para identificar cada usuário conectado na chamada e torna-lo único, trabalhamos com o padrão Builder para manipulação de eventos e seguimos o principio da responsabilidade única, onde nosso arquivo _app.js_ é responsável pela execução de toda nossa aplicação, a classe de negócios (_Business_) é nossa controladora que também é conhecida como _(Controller)_ que é responsável pela manipulação de regras da nossa aplicação e da classe de visualização _(View)_, a pasta _util_ contém toda nossa implementação relacionada ao _Media Recorder API, Media Devices API, WebRTC PeerServer_ e _Sockets_.
+Na semana javascript expert 2.0 construímos um projeto de streams de video conferência, similar ao que software _[Zoom](https://zoom.us)_ faz, utilizamos _Sockets_ para fazer a comunicação em tempo real e também fizemos o uso da tecnologia _WebRTC e Peer Server_ para identificar cada usuário conectado na chamada e torna-lo único, trabalhamos com o padrão Builder para manipulação de eventos e seguimos o principio da responsabilidade única, onde nosso arquivo _app.js_ é responsável pela execução de toda nossa aplicação, a classe de negócios (_Business_) é nossa controladora que também é conhecida como _(Controller)_ que é responsável pela manipulação de regras da nossa aplicação e da classe de visualização _(View)_, a pasta _util_ contém toda nossa implementação relacionada ao _Media Recorder API, Media Devices API, WebRTC,  PeerServer_ e _Sockets_.
 
 ## :video_game: Como executar a aplicação
 
